@@ -1,0 +1,35 @@
+.tamanhocar{
+    width: 80%;
+    margin-top: 1%;
+}
+
+section{
+    margin-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.imglado{
+    width: 90%;
+}
+
+.galeria{
+    width: 80%;
+}
+.galeriaimg{
+    width: 90%;
+    margin-left: 2%;
+}
+
+footer{
+    background-color: rgb(238, 220, 245);
+    text-align: center;
+    width: 100%;
+    padding: 4%;
+    margin-top: 3%;
+}
